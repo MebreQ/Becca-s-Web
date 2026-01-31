@@ -1,0 +1,5 @@
+name = "becca-catering-site"
+compatibility_date = "2026-01-31"
+
+[site]
+bucket = "./Main"
